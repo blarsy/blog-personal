@@ -1,0 +1,5 @@
+nav:
+  next: 'Suivant'
+  prev: 'Prédédent'
+article:
+  comments: 'Commentaires'
