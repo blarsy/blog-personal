@@ -3,8 +3,8 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Les passions de Bertrand
-subtitle: "Programmation web, économie, parentalité douce, développement personnel, agriculture durable, ..."
+title: Bertr@nd
+subtitle: "Programmation web, économie 2.0, parentalité douce, développement personnel, agriculture durable, ..."
 description:
 author: Bertrand Larsy
 language: fr
@@ -69,3 +69,6 @@ theme: minos
 ## Docs: http://hexo.io/docs/deployment.html
 deploy:
   type:
+
+# Disqus
+disqus_shortname: bertrnd

@@ -15,5 +15,10 @@
     "hexo-renderer-stylus": "^0.3.0",
     "hexo-renderer-marked": "^0.2.4",
     "hexo-server": "^0.1.2"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.0",
+    "gulp-plumber": "^1.0.1",
+    "gulp-util": "^3.0.6"
   }
 }

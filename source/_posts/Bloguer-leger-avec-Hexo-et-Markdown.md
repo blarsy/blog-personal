@@ -6,11 +6,9 @@ tags:
 - Blog
 - NodeJs
 ---
-{% asset_img pic_pro.jpg "Photo pro" %}
-
 *Ca fait un moment que la nécessité se fait sentir chez moi de partager mes élucubrations autour de NodeJS, AngularJS et MongoDB (ma pile de programmation de site web préférée du moment).*
 
-*Dans le cadre de mon projet [Dealbee](https://www.dealbee.net "Dealbee, les deals faciles"), ça ne peut littéralement plus attendre, et dans la foulée, autant mettre sur pied le blog technique de programmeur qui manque à mon activité.*
+*Dans le cadre de mon projet [Dealbee](https://www.dealbee.net "Dealbee, les deals faciles"), ça ne peut littéralement plus attendre, et dans la foulée, autant mettre sur pied le blog perso qui manque à mon activité.*
 
 *Quoi de plus logique qu'un premier billet sur ... comment j'ai choisi mes technos de blogging.*
 
