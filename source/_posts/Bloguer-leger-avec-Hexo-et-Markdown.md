@@ -49,6 +49,6 @@ Hexo n'est pas le seul a fonctionner de la sorte, mais le facteur décisif à é
 
 Ceci dit, Hexo impose d'utiliser des outils hautement geekesques, comme une bonne vieille ligne de commande. [Voyez](http://jr0cket.co.uk/developer-guides/hexo-workflow.png "Utiliser Hexo") par vous-même. En tant que programmeur, ça m'attire plus que ça ne me repousse ;-)
 
-Je vais même pouvoir maintenir mon blog dans mon repo Github !
+Je vais même pouvoir maintenir mon blog dans mon [repo Github](https://github.com/blarsy/blog-personal) !
 
 **Et vous, comment bloguez-vous ?**

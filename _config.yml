@@ -68,7 +68,15 @@ theme: minos
 # Deployment
 ## Docs: http://hexo.io/docs/deployment.html
 deploy:
-  type:
+  type: ftpsync
+  host: ftp.expansivepassion.be
+  user: expan201505
+  pass: TpAB4gmzXY
+  remote: /
+  port: 21
+  ignore: false
+  connections: 1
+  verbose: true
 
 # Disqus
 disqus_shortname: bertrnd
