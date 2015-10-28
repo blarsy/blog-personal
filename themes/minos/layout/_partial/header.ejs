@@ -8,6 +8,9 @@
           <a class="main-nav-link" href="<%- url_for(theme.menu[i]) %>"><%= i %></a>
         <% } %>
       </nav>
+      <nav id="rss-nav">
+          <a href="<%- theme.rss %>"><i class="fa fa-rss-square"></i></a>
+      </nav>
       <nav id="sub-nav">
         <div id="search-form-wrap">
           <%- search_form({button: '&#xF002;'}) %>

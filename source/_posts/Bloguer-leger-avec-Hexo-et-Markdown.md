@@ -33,6 +33,8 @@ On a un gagnant: Markdown
 C'est une syntaxe qui permet de taper rapidement du contenu HTML.
 Mardown n'est pas aussi riche qu'HTML, et ce n'est pas le but: juste de quoi écrire des articles (texte, mise en forme basique, images, liens, ...)
 
+{% img md /2015/10/04/Bloguer-leger-avec-Hexo-et-Markdown/markdown.png "Markdown logo" %}
+
 En fait, je l'utilise déjà pour taper le présent texte :-)
 
 La prise en main est quasi immédiate (une petite heure de lecture)
@@ -48,6 +50,8 @@ Le blog ainsi généré ne contient que des fichiers de contenu, de mise en form
 Hexo n'est pas le seul a fonctionner de la sorte, mais le facteur décisif à été qu'il est basé sur NodeJS, un moteur d'éxécution de Javascript que je connaît bien. Ce n'est pas en soi un critère décisif, mais c'est celui qui a départagé Hexo des autres.
 
 Ceci dit, Hexo impose d'utiliser des outils hautement geekesques, comme une bonne vieille ligne de commande. [Voyez](http://jr0cket.co.uk/developer-guides/hexo-workflow.png "Utiliser Hexo") par vous-même. En tant que programmeur, ça m'attire plus que ça ne me repousse ;-)
+
+{% img md /2015/10/04/Bloguer-leger-avec-Hexo-et-Markdown/hexo.png "Markdown logo" %}
 
 Je vais même pouvoir maintenir mon blog dans mon [repo Github](https://github.com/blarsy/blog-personal) !
 
