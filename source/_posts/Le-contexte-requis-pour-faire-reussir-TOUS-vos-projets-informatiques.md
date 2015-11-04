@@ -33,6 +33,8 @@ Ce qu'il faut, c'est de la tranquilité d'esprit.
 
 C'est tout.
 
+{% img /2015/10/27/Le-contexte-requis-pour-faire-reussir-TOUS-vos-projets-informatiques/peace.jpg [Productif et créatif au travail] %}
+
 C'est donc bien une question de contexte: Tout travail intellectuel et/ou créatif est freiné par un état de stress. J'enfonce une porte à moitié ouverte: beaucoup de gens dans le monde du travail se rendent compte de ce fait.
 
 En cherchant à étayer mon propos, j'ai retrouvé cette [vidéo de Jean-Luc Roux](https://www.youtube.com/watch?v=IPLYZrufE_w) (4'40). Elle est juste parfaite, je considère que vous l'avez regardée avant de continuer la lecture.
