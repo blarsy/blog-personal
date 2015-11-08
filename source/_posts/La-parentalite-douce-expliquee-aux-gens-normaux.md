@@ -1,12 +1,20 @@
 title: 'La parentalité douce, expliquée aux gens normaux. (billet 1)'
 date: 2015-10-27 22:07:53
 tags:
+- parent
+- enfant
+- éducation
 ---
 *Parentalité ou éducation douce, bienveillante, Steiner, Montessori, ... Tous ces jeunes acronymes qui définissent des approches différentes de comportement avec nos enfants peuvent être intriguants.*
 *J'expliquerai dans ces billets ce qui guide mon comportement avec mes enfants. Cela inclut des engagements choisis, mais aussi des réactions non maîtrisées de ma part.*
 *J'aborderai notamment des définitions des concepts d'éducation, la carotte, le bâton, l'inspiration. J'énumèrerai des obstacles auxquels je suis confronté, et quelques solutions.*
 
 *Il s'avère que je suis intarissable sur le sujet, j'en ferai donc plusieurs billets*
+
+Ne vous offusquez pas du titre de ce billet: "gens normaux" est plutôt à prendre au sens de "gens qui ont cliqué sur le lien parce que la parentalité douce les interpelle".
+
+{% img /2015/10/27/La-parentalite-douce-expliquee-aux-gens-normaux/Cane_et_canetons.jpg "Parentalité" %}
+
 
 Billet 1: Pourquoi être un parent "doux"
 ----------------------------------------
