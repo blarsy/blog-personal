@@ -8,7 +8,7 @@ tags:
 
 *En éducation, et peut-être même dans la vie en général, le contexte est le vecteur le plus puissant de succès.*
 *Je présente donc ici, par ordre de puissance, les contextes les plus appropriés pour l'apprentissage.*
-*Il y a peu de chance que ce soit exhaustif, mais c'est ce qui marche mieux d'après mon expérience.*
+*Il y a peu de chance que ce soit exhaustif, mais c'est ce qui marche le mieux d'après mon expérience.*
 
 Essayons de vous faire gagner du temps
 --------------------------------------
@@ -45,8 +45,9 @@ Bien évidemment, pour beaucoup d'enfants, la friction avec le système scolaire
 
 Qu'on fonctionne à la récompense ou à la punition, l'un comme l'autre sont des techniques de manipulation pour mettre l'enfant où il n'a pas choisi d'être.
 
-La punition est à proscrire, car la culpabilité est un poison qui ne fait que retarder et renforcer l'expression de l'attitude punie.
-On peut bien entendu séparer physiquement des enfants qui se battent trop fort, mais ce doit être une logique de protection explicite, aucunement une punition. De même, quand vous voulez expliquer votre intervention physique à un enfant que vous venez juste d'empêcher de traverser la rue devant un véhicule en marche, utilisez le "je", et expliquez bien que la cause de votre nervosité est la peur de le perdre, pas son geste involontaire.
+La punition est à proscrire, car la culpabilité est un poison qui ne fait que retarder et renforcer l'attitude punie.
+On peut bien entendu séparer physiquement des enfants qui se battent trop fort, mais ce doit être une logique de protection explicite, aucunement une punition.
+De même, quand vous voulez expliquer votre intervention physique à un enfant que vous venez juste d'empêcher de traverser la rue devant un véhicule en marche, utilisez le "je", et expliquez bien que la cause de votre nervosité est la peur de le perdre, pas son geste involontaire.
 
 La récompense peut être un substitut temporaire au but commun, en particulier pour les enfants plus jeunes (l'âge charnière approximatif semble être 7 ans). L'innocence de l'enfant et la récompense permettent de créer un jeu à partir de n'importe quel apprentissage. Je vous suggère quand même de faire attention à ce que vous leur apprenez de la sorte, on peut réèllement leur apprendre n'importe quoi, y compris la cruauté et la compétition à outrance (voir certains jeux vidéos, certaines écoles, et certains clubs de sport).
 
